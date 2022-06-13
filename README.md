@@ -1,2 +1,2 @@
 # data-structures-s21
-Java programming assignments for Data Structures and Algorithm
+Programming assignments for Data Structures and Algorithm
